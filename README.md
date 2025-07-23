@@ -8,24 +8,29 @@ To segment customers based on their purchasing behavior and interest using data 
 **Project Workflow**
 
 _Problem Definition_
+
 Understanding the need for customer segmentation to meet diverse customer needs and increase profitability.
 
 _Data Collection_
+
 Retail transaction data sourced from an online store between 2010 and 2011.
 
 _Data Cleaning & Preprocessing_
+
 Removed null and duplicate entries
 Filtered negative or invalid values
 Focused on United Kingdom transactions
 Added total transaction value (TotalAmount)
 
 _RFM Score Calculation_
+
 Recency: Days since last purchase
 Frequency: Number of purchases
 Monetary: Total amount spent
 Scored using quartiles and categorized
 
 _Customer Segmentation_
+
 Customers were grouped based on RFM scores into:
 
 📀 Platinum
