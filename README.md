@@ -1,4 +1,4 @@
-****Data Analytics Approach to Segment Customers Based on Their Interests****
+******Data Analytics Approach to Segment Customers Based on Their Interests******************
 
 This project focuses on customer segmentation using RFM analysis (Recency, Frequency, Monetary) to classify customers into loyalty tiers based on their transactional behavior. This analysis helps businesses tailor marketing strategies and improve customer targeting.
 
