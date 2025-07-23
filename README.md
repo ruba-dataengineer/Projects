@@ -26,8 +26,11 @@ Retail transaction data sourced from an online store between 2010 and 2011.
 **_RFM Score Calculation_**
 
 Recency: Days since last purchase
+
 Frequency: Number of purchases
+
 Monetary: Total amount spent
+
 Scored using quartiles and categorized
 
 **_Customer Segmentation_**
