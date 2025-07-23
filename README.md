@@ -2,9 +2,11 @@
 This project focuses on customer segmentation using RFM analysis (Recency, Frequency, Monetary) to classify customers into loyalty tiers based on their transactional behavior. This analysis helps businesses tailor marketing strategies and improve customer targeting.
 
 **Objective**
+
 To segment customers based on their purchasing behavior and interest using data analytics techniques, enabling businesses to adopt targeted marketing approaches and improve customer retention.
 
 **Project Workflow**
+
 _Problem Definition_
 Understanding the need for customer segmentation to meet diverse customer needs and increase profitability.
 
@@ -32,6 +34,7 @@ Customers were grouped based on RFM scores into:
 🥉 Bronze
 
 **Tech Stack**
+
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Jupyter Notebook
 - CSV Retail Dataset
