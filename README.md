@@ -36,8 +36,11 @@ Scored using quartiles and categorized
 Customers were grouped based on RFM scores into:
 
 📀 Platinum
+
 🥇 Gold
+
 🥈 Silver
+
 🥉 Bronze
 
 **Tech Stack**
